@@ -1,4 +1,4 @@
-FROM postgis/postgis:12-3.0-alpine
+FROM postgis/postgis:15-3.4-alpine
 
 WORKDIR /docker-entrypoint-initdb.d
 
